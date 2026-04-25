@@ -74,7 +74,7 @@ const styles = StyleSheet.create({
         opacity: 0.7
     },
     blue_box: {
-        backgroundColor: "#2a7ddb",
+        backgroundColor: "#033d80",
         borderRadius: 15,
         padding: 12,
         paddingHorizontal: 15,
@@ -126,7 +126,7 @@ const styles = StyleSheet.create({
         borderRadius: 10
     },
     link_button: {
-        backgroundColor: "#2a7ddb",
+        backgroundColor: "#024899",
         justifyContent: "center",
         alignItems: "center",
         borderRadius: 30,

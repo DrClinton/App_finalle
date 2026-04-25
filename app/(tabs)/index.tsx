@@ -330,7 +330,7 @@ const styles = StyleSheet.create({
   actionItem: {
     width: "30%",
     alignItems: "center",
-    marginBottom: 20,
+    marginBottom: 15,
   },
 
   iconBox: {
